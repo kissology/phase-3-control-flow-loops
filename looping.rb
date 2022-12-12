@@ -1,5 +1,6 @@
 def happy_new_year
-  # your code here
+  10.times do |i|
+    puts "#{i}"
 end
 
 # No need to modify this code! Use this to implement the fizzbuzz_printer method.
